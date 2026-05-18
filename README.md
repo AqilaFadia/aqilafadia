@@ -16,7 +16,6 @@
 - **Automation & Scraping:** Playwright, Selenium, BeautifulSoup, Apify 
 - **Data & Reporting:** Excel, Google Sheets, Looker Studio, Tableau  
 - **Database:** MySQL, PostgreSQL  
-- **Tools:** Git/GitHub, Streamlit  
 ---
 
 ## Connect with me

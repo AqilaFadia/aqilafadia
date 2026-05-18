@@ -21,4 +21,3 @@
 ## Connect with me
 - LinkedIn: https://linkedin.com/in/aqila-fadia-mariana  
 - GitHub: https://github.com/AqilaFadia  
-- Email: aqilafadiamariana@gmail.com

@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Aqila Fadia Mariana 👋  
+**Data & Automation Engineer (Python | Playwright | Web Scraping)**  
 
-<!--
-**AqilaFadia/aqilafadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently focused on **Python Automation, Web Scraping, and Data Extraction**  
+🤝 Interested in building automation pipelines that reduce manual work and improve reporting  
+🧪 Passionate about **Playwright Automation, Data Scraping, and API Integration**  
 
-Here are some ideas to get you started:
+💬 Ask me about:  
+**Web Scraping / Playwright / Python Automation / Data Extraction / REST API / ETL / SQL / Data Cleaning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+- **Languages:** Python, SQL  
+- **Automation & Scraping:** Playwright, Selenium, BeautifulSoup, Apify  
+- **Data & Reporting:** Excel, Google Sheets, Looker Studio, Tableau  
+- **Database:** MySQL, PostgreSQL  
+- **Tools:** Git/GitHub, Streamlit  
+
+---
+
+## Featured Projects
+- 📌 Google Maps Scraping & Website Contact Extraction  
+- 📌 Job Board Scraper with AI-Based Relevance Scoring  
+- 📌 Twitch Stream Scraping to Dynamic Reporting  
+- 📌 Spotify Playlist Scraping & Contact Data Extraction  
+
+---
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/aqila-fadia-mariana  
+- GitHub: https://github.com/AqilaFadia  
+- Email: aqilafadiamariana@gmail.com

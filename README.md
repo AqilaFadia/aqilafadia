@@ -2,8 +2,9 @@
 **Data & Automation Engineer (Python | Playwright | Web Scraping)**  
 
 🔭 Currently focused on **Python Automation, Web Scraping, and Data Extraction**  
-🤝 Interested in building automation pipelines that reduce manual work and improve reporting  
-🧪 Passionate about **Playwright Automation, Data Scraping, and API Integration**  
+⚡ Efficiency-driven: I love simplifying repetitive tasks through automation  
+📊 I enjoy turning raw data into **business insights** and actionable reports  
+🧪 Passionate about building scalable scraping pipelines and automation workflows   
 
 💬 Ask me about:  
 **Web Scraping / Playwright / Python Automation / Data Extraction / REST API / ETL / SQL / Data Cleaning**
@@ -12,19 +13,10 @@
 
 ## Tech Stack
 - **Languages:** Python, SQL  
-- **Automation & Scraping:** Playwright, Selenium, BeautifulSoup, Apify  
+- **Automation & Scraping:** Playwright, Selenium, BeautifulSoup, Apify 
 - **Data & Reporting:** Excel, Google Sheets, Looker Studio, Tableau  
 - **Database:** MySQL, PostgreSQL  
 - **Tools:** Git/GitHub, Streamlit  
-
----
-
-## Featured Projects
-- 📌 Google Maps Scraping & Website Contact Extraction  
-- 📌 Job Board Scraper with AI-Based Relevance Scoring  
-- 📌 Twitch Stream Scraping to Dynamic Reporting  
-- 📌 Spotify Playlist Scraping & Contact Data Extraction  
-
 ---
 
 ## Connect with me

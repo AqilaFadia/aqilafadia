@@ -1,4 +1,4 @@
-## Hi, I'm Aqila Fadia Mariana 👋  
+## Hi, I'm Aqila Fadia 👋  
 **Data & Automation Engineer (Python | Playwright | Web Scraping)**  
 
 🔭 Currently focused on **Python Automation, Web Scraping, and Data Extraction**  

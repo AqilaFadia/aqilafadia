@@ -7,7 +7,7 @@
 🧪 Passionate about building scalable scraping pipelines and automation workflows   
 
 💬 Ask me about:  
-**Web Scraping / Playwright / Python Automation / Data Extraction / REST API / ETL / SQL / Data Cleaning**
+**Web Scraping / Playwright / Python Automation / Data Extraction / REST API / ETL / SQL / Data Cleaning / Api Integration**
 
 ---
 
